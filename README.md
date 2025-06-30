@@ -22,4 +22,4 @@ It demonstrates:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/sudheer948/landing-page2.git
+   git clone https://sudheer948.github.io/landing-page2/
