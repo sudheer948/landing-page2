@@ -24,7 +24,7 @@ section {
   padding: 20px;
   border-radius: 10px;
   background: #f9f9f9;
-  box-shadow: 0 4px 8px rgba(0,0,0,0.05);
+  box-shadow: 0 4px 8px rgba(0,0,0,0.5);
 }
 
 h1, h2 {
